@@ -3,4 +3,3 @@
 
 direction += 2;
 image_angle = direction-90;
-show_debug_message("pressed A");

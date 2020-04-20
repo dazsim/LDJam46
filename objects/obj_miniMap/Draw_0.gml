@@ -59,4 +59,4 @@ draw_set_alpha(0.3);
 draw_set_color(c_black);
 draw_rectangle(window_get_width()/2-25,5,window_get_width()/2+25,25,true);
 draw_text(window_get_width()/2-23,7,string(map_complete*100/(map_width*map_height)) + "%");
-	
+draw_set_alpha(1.0);	

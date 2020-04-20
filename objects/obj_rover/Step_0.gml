@@ -69,9 +69,13 @@ for(var i=floor(obj_rover.rover_x/delta_x)-scanner_range; i<floor(obj_rover.rove
 			//set point on map.
 			if (obj_world.map_explored[i+x_fix,j+y_fix] >0)
 			{				
-				obj_world.map_explored[i+x_fix,
-										j+y_fix] =0;
+				obj_world.map_explored[i+x_fix,j+y_fix] =0;
 				obj_miniMap.map_complete+= 1;
+				if (obj_miniMap.map_complete > (obj_miniMap.map_width * obj_miniMap.map_height))
+				{
+					// win the game
+					room_goto(win);
+				}
 			}
 		}
 		

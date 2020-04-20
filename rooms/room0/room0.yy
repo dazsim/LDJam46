@@ -7,7 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "65fb84a9-acc1-4341-907f-5a18d9e6fcc1"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_23888A","id": "65fb84a9-acc1-4341-907f-5a18d9e6fcc1","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_23888A.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_23888A","objId": "c4dabf7d-1c38-411f-8060-7c494b77e8e7","properties": [{"id": "270a643e-1e06-4e65-a50d-627841bc47c9","modelName": "GMOverriddenProperty","objectId": "c4dabf7d-1c38-411f-8060-7c494b77e8e7","propertyId": "fe4a070f-26a8-4bc2-a45f-8aac04a2d7c4","mvc": "1.0","value": "New Game"},{"id": "acc01e5f-e99f-42c1-a369-965ccb26b8ab","modelName": "GMOverriddenProperty","objectId": "c4dabf7d-1c38-411f-8060-7c494b77e8e7","propertyId": "6c4e0b22-0a31-4507-9515-145e9e71a5f5","mvc": "1.0","value": "mars"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 64,"y": 64}
             ],
             "layers": [
 

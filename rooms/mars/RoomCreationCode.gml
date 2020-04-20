@@ -1,0 +1,1 @@
+global.chunks = ds_map_create();
